@@ -15,7 +15,7 @@ https://www.roblox.com/share?code=bf50853031ee914e9b7c13218ab58d3c&type=Server
 
 # Channels to be posted
 channels_and_slow_modes = {
-    'https://discord.com/api/v9/channels/1282753706252828672/messages': {'server_name': 'General1'},
+    'https://discord.com/api/v9/channels/1322247736942264320/messages': {'server_name': 'General1'},
 }
 
 # API Key and Webhook URL
