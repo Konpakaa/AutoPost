@@ -3,6 +3,9 @@ name: Python application
 on:
   schedule:
     - cron: "0 */6 * * *"  # Executes every 6 hours
+  push:
+    branches:
+      - main  # or your default branch
 
 permissions:
   contents: read
